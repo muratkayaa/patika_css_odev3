@@ -1,0 +1,113 @@
+
+  .continer {
+    text-align: center;
+    margin: 100px;
+  }
+  
+  .search-area {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    height: 44px;
+    margin: 0 auto;
+    margin-top: -77px;
+    width: 582px;
+    border-radius: 25px;
+  }
+  
+  .search-area:hover {
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.23), 0 2px 5px 0 rgba(0,0,0,0.18);
+  }
+  
+  .search {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+  } 
+  
+  .search-img {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+  }
+  
+  .search-img span {
+    color: #9aa0a6;
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+    display: inline-block;
+    position: relative;
+  }  
+  .input-enter {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+  }  
+   
+  .googlesearch {
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    border: 2px solid #f2f2f2;
+    margin-right: 10px;
+    color: #5f6368;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    
+  }
+   .googlesearch:hover{
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.23),
+    0 2px 5px 0 rgba(0, 0, 0, 0.18);
+  } 
+  
+  .feelinglucky {
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border: 2px solid #f2f2f2;
+    color: #5f6368;
+
+  }
+   .feelinglucky:hover{
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.23),
+  0 2px 5px 0 rgba(0, 0, 0, 0.18);
+  } 
+  
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    height: 36px;
+      
+  }  
+  .voice-search {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+  
+  }
+  
+  .voice-search img{
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+    display: inline-block;
+    fill: currentColor;
+    line-height: 24px;
+    position: relative;
+  } 
+  
